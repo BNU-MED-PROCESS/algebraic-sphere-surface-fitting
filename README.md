@@ -4,3 +4,5 @@
 > **MICCAI 2024**
 
 > 🚧 The GitHub repository is currently under construction. Please check back in a few months. Thank you for your patience!
+
+> We are currently working on using neural networks to represent the 4D shape of the heart from a single 3D+t image. Stay tuned for our future work!
